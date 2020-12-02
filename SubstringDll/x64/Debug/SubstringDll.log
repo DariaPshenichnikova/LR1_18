@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  dllmain.cpp
+  SubstringDll.cpp
+C:\Users\volos\source\repos\tp_1_18\SubstringDll\SubstringDll.cpp(5,1): warning C4273: check_string: несовместимое связывание dll
+C:\Users\volos\source\repos\tp_1_18\SubstringDll\SubstringDll.h(9,23): message : см. предыдущее определение "check_string"
+  Создание кода...
+     Создается библиотека C:\Users\volos\source\repos\tp_1_18\x64\Debug\SubstringDll.lib и объект C:\Users\volos\source\repos\tp_1_18\x64\Debug\SubstringDll.exp
+  SubstringDll.vcxproj -> C:\Users\volos\source\repos\tp_1_18\x64\Debug\SubstringDll.dll
